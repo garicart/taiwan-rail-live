@@ -14,6 +14,10 @@ cd 捷運小動畫
 python3 -m http.server 5178      # 或用 .claude/launch.json 的 "static" 設定
 # 開 http://localhost:5178
 ```
+軌島程式（[點我](railisland.tw/code)
+```bash
+
+```
 
 需要網路（OpenFreeMap／Esri 地圖圖磚）。資料檔已在 repo，離線也能載入列車。
 
